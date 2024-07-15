@@ -5,11 +5,6 @@
 </a>
 
 </p>
-<br>
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwYzNsazBvMjljMTV5a2YxNGJmb2lyNW8xNWVxNzB5dTBnZms5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0qGCKtio8kB5spjXY/giphy.gif" width="500" height="300"/>
-</div>
-</br>
 
 ## About Me 💫
 - 👋 I am currently working on AWS and DevOps projects.
