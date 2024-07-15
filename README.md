@@ -7,9 +7,7 @@
 </p>
 <br>
 <div align="center">
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/ef75104f-dd2b-4ef7-b21a-fc68c09a3ffc/ELxHnzvYTF.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwYzNsazBvMjljMTV5a2YxNGJmb2lyNW8xNWVxNzB5dTBnZms5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0qGCKtio8kB5spjXY/giphy.gif" width="500" height="300"/>
 </div>
 </br>
 
