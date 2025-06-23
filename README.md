@@ -47,6 +47,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammekG&show_icons=true&count_private=true&hide_title=false&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SammekG&theme=default)
 
 
