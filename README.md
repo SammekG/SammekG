@@ -42,3 +42,11 @@
 <img width="45" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/>&nbsp;&nbsp;
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
 </p>
+
+## 🔥 GitHub Contribution Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammekG&show_icons=true&count_private=true&hide_title=false&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SammekG&theme=default)
+
+
