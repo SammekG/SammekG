@@ -43,9 +43,5 @@
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
 </p>
 
-## 🔥 GitHub Contribution Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammekG&show_icons=true&count_private=true&hide_title=false&theme=default)
-
 
 
