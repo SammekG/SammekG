@@ -23,8 +23,8 @@
 
 ## 📊 GitHub Stats
 
-![Sammek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammekgandhi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammekgandhi&layout=compact&theme=tokyonight)
+![Sammek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammekG&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammekG&layout=compact&theme=tokyonight)
 
 ---
 
@@ -36,9 +36,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- ✉️ Email: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sammekgandhi/)
+- ✉️ Email: sammek.gandhi@gmail.com
 
 ---
 
