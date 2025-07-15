@@ -15,16 +15,8 @@
 ## 🏆 Certifications
 | Certification | Badge |
 |---------------|-------|
-| ![AWS] | [Verify](<a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://github.com/SammekG/SammekG/blob/main/aws%20certified%20associate.png" 
-         alt="HashiCorp Terraform Certified Associate" 
-         width="120" height="120"/>
-  </a>) |
-| ![Terraform] | [Verify](<a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://github.com/SammekG/SammekG/blob/main/hashicorp-certified-terraform-associate-003.png" 
-         alt="HashiCorp Terraform Certified Associate" 
-         width="120" height="120"/>
-  </a>) |
+| ![AWS] | [<img src="https://github.com/SammekG/SammekG/blob/main/aws%20certified%20associate.png" alt="HashiCorp Terraform Certified Associate" width="120" height="120"/>] |
+| ![Terraform] | [<img src="https://github.com/SammekG/SammekG/blob/main/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Terraform Certified Associate" width="120" height="120"/>] |
 
 ---
 
