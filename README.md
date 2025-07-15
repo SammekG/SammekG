@@ -12,6 +12,14 @@
 
 ---
 
+## 🏆 Certifications
+| Certification | Badge |
+|---------------|-------|
+| ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazonaws&logoColor=white) | [Verify](https://aws.amazon.com/verification) |
+| ![Terraform](https://img.shields.io/badge/HashiCorp%20Terraform-Associate-blueviolet?logo=terraform&logoColor=white) | [Verify](https://www.hashicorp.com/certification/terraform-associate) |
+
+---
+
 ## 🛠️ Tech Stack
 - **Languages**: Bash, Python, YAML, HCL (Terraform)
 - **DevOps**: Jenkins, GitHub Actions, ArgoCD, Helm
